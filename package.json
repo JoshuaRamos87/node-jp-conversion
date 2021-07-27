@@ -3,7 +3,7 @@
   "version": "0.0.7",
   "repository": "https://github.com/Pomax/node-jp-conversion.git",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.21"
   },
   "scripts": {
     "test": "node test"
